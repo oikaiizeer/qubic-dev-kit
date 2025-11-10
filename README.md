@@ -1,7 +1,7 @@
 # Qubic Devkit
 
 This repository contains the Qubic Devkit, designed to help developers set up a Qubic testnet node and run the HM25 Smart Contract (SC) demo for the Hackathon Madrid 2025. Follow the steps below to get started.
-
+ok
 ## Important Notes
 
 * Optimized for Demo Branch:
